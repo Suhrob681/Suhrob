@@ -1,0 +1,115 @@
+*{
+    padding:  0; 
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.big{
+    width: 70%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: #FE2722;
+    display: flex;
+    align-items: center;
+    border-radius: 15PX;
+    margin-top: 30PX;
+}
+#Nav{
+    font-size: 40px;
+    margin-left: 10PX;
+    margin-right: 10PX;
+}
+.imp{
+    width: 50%;
+    height: 70%;
+    border-radius: 20PX;
+}
+.ali{
+    color: white;
+    font-size: 30PX;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.prices{
+    font-family: Ali_ver\.18_Lighter-Rounded,Inter,sans-serif;
+    font-size: 46px;
+    line-height: 96%;
+    letter-spacing: -.343px;
+    margin: 0;
+}
+.content{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    background-color: blue;
+    margin-top: 20px;
+ 
+}
+.con1{
+    width: 35%;
+    height: 1005;
+    background-color: #FF6437;
+    text-align: center;
+}
+.con2{
+    width: 70%;
+    height: 100%;
+    background-image: url(Pic.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.poll{
+    width: 250px;
+    height: 50px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    margin-top: 20px;
+}
+.flex{
+    width: 100%;
+    height: 400px;
+    background-color: #F0F4F7;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.flec{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.card1{
+    width: 150px;
+    height: 100%;
+    background-color: white;
+    margin-left: 10px;
+    text-align: center;
+}
+.max{
+    width: 100%;
+    height: 70%;
+}
+.kal{
+    text-decoration: none;
+    color: rgb(17, 216, 50);
+    text-align: left;
+    margin-left: -100px;
+    margin-top: 10px;
+}
+.gtr h1{
+    width: 98%;
+margin-top: 20px;
+    height: 100%;
+    border-radius: 15px;
+    background-color:  #F0F4F7;
+}
+.gtr{
+    margin-top: 40px;
+}
